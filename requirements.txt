@@ -1,0 +1,6 @@
+﻿numpy~=1.21.2
+streamlit~=0.87.0
+keras~=2.8.0
+opencv-python
+tensorflow-gpu
+streamlit_webrtc
